@@ -1,10 +1,10 @@
 ## Input-Method-Tab
 ##### Wishlist] Proposal for Input-Method tab to Keyboard plug
 ##### https://bugs.launchpad.net/switchboard-plug-keyboard/+bug/1397776
-#####
+#
 ##### Proposal )
 ##### picture -  https://plus.google.com/101028813073033149665/posts/hFPy9kjVxm3
-#####
+#
 ##### We Asians don't use keyboard layout when typing our characters,
 ##### We use Input Method instead.
 #####
