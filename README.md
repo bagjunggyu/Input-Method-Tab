@@ -1,5 +1,6 @@
 ## Input-Method-Tab
 ##### Wishlist] Proposal for Input-Method tab to Keyboard plug
+##### https://docs.google.com/document/d/18_XMGFzo7tOv2EiD1heMeh9KZmKXuXySMsoo9mReGRk/edit?usp=sharing
 ##### https://bugs.launchpad.net/switchboard-plug-keyboard/+bug/1397776
 ##### 
 ##### Proposal )
