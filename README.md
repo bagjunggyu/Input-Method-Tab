@@ -82,9 +82,7 @@
 ##### (x) ibus-hangul
 ##### 
 ##### < Japanese >
-##### nimf is preparing for Japanese based on Anthy and it will be added soon on July.
-##### https://github.com/cogniti/nimf
-##### 
+##### (0) nimf
 ##### (x) ibus-mozc
 ##### (x) fcitx-mozc
 ##### (can't test ,nor no need to do in 64-bit) uim uim-mozc:i386
@@ -116,3 +114,4 @@
 ##### I recommend nimf as default input method for universial usage for CJK
 ##### and unfortunately, I don't know well of Vietnamese in fact. If we can find more infos ,
 ##### we need to add it to the Input Method tab.
+##### nimf project : https://github.com/cogniti/nimf
