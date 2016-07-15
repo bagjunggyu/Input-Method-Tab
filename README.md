@@ -39,6 +39,7 @@
 ##### 3)
 ##### settings tool by set IM
 ##### Loki doesn't support Ayatana and all the input method doesn’t show current state to wingpanel like keyboard layout does.
+##### and, most users don't know where the settings tool are.
 ##### but we need this tools to set up which keyboard to use to input characters.
 ##### 
 ##### Settings tool)
