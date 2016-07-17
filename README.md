@@ -85,7 +85,7 @@
 ##### < Japanese >
 ##### (0) nimf
 ##### (x) ibus-mozc
-##### (x) fcitx-mozc
+##### (x) fcitx-mozc : Preferred IM of Japanese
 ##### (can't test ,nor no need to do in 64-bit) uim uim-mozc:i386
 ##### (x) ibus-anthy
 ##### (x) fcitx-anthy
@@ -112,7 +112,6 @@
 ##### uim issue
 ##### https://github.com/uim/uim/issues/30
 ##### 
-##### I recommend nimf as default input method for universial usage for CJK
-##### and unfortunately, I don't know well of Vietnamese in fact. If we can find more infos ,
-##### we need to add it to the Input Method tab.
+##### Unfortunately, I don't know well of Vietnamese and other languages in fact. 
+##### If we can find more infos, We need to add them to the Input Method tab.
 ##### nimf project : https://github.com/cogniti/nimf
